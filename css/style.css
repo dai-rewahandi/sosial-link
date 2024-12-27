@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+section {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container ul {
+  display: flex;
+  gap: 2em;
+}
+
+.container ul li img {
+
+  transition-duration: .5s;
+}
+
+.container ul li:hover img {
+  scale: 1.3;
+}
+
+.container ul li:active img {
+  transform: translateY(-8px);
+}
