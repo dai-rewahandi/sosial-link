@@ -1,6 +1,5 @@
 Tidak ada yang istimewa haya html css js biasa ❤️
 
-[Demo](https://nikto-de.github.io/sosial-link/) 
+[Demo](https://dai-rewahandi.github.io/sosial-link/)
 
-![demo](./src/ss.png) 
-
+![demo](./src/ss.png)
